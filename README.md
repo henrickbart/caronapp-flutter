@@ -45,6 +45,6 @@ https://www.youtube.com/watch?v=fDtEl6FDpg0
 
 ## Meta
 
+henrickbart – henrickbart@gmail.com
 Lorenzuou –  lorenzoscaramussa@hotmail.com
-henrickbart – 
 Distribuido sobre a licença MIT . Veja ``LICENSE`` para mais informações.
